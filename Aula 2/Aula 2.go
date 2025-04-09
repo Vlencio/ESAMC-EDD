@@ -65,7 +65,7 @@ type Produto struct {
 	Quantidade int
 }
 
-func main() {
+func execAula2() {
 	var num int
 
 	fmt.Println("Digite quantos produtos deseja adicionar: ")
